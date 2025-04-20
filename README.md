@@ -1,0 +1,1 @@
+This project focuses on training an image classification model on the CIFAR-10 dataset using TensorFlow/Keras, converting it to ONNX format, and running inference with ONNX Runtime for improved portability and performance.
